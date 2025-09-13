@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.wp.doconnect.question_service.QuestionServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.925 s -- in com.wp.doconnect.question_service.QuestionServiceApplicationTests
